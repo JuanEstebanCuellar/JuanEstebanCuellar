@@ -1,6 +1,6 @@
 # ¡Hola, soy Juan! 👋
 
-![Banner](https://github.com/JuanEstebanCuellar/JuanEstebanCuellar/blob/main/encabezadoGITHUB.png)
+![Banner](https://github.com/JuanEstebanCuellar/JuanEstebanCuellar/blob/main/EncabezadoGITHUB.png)
 
 💻 Soy estudiante de **Ingeniería en Sistemas y Telecomunicaciones** y un apasionado por el desarrollo de software, las telecomunicaciones y la tecnología en general.  
 
